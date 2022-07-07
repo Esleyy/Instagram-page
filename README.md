@@ -4,7 +4,7 @@ Criei esse projeto baseado na aula de Flexbox, fiz um clone da pagina inicial do
 
 ### Foi usado
 
-* HTML
+* HTML 5
 * CSS3
 * Conceitos de Flexbox
 
